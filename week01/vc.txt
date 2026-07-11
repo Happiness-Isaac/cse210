@@ -1,0 +1,24 @@
+1. Explain the meaning of Version Control
+Version Control tracks the history, changes and progress made by team collaborator on projects.
+
+
+2. Highlight a benefit of Version Control
+version control enables developers to see what changes was made, who made the changes and when was the chages made.
+
+
+3. Example of version control: Describe the way version control might be used on a software development team.
+on a software devlopment team, version control can be used to see the entire timeline of changes, decisions, 
+and progression of any project in one place. Example of this version control is Git
+
+
+4. Show a command used in Version Control (for example a Git command)
+git commit -m "add a variable"
+
+
+5. Thoroughly explain these concepts (this likely cannot be done in less than 100 words)
+Version control is a system for tracking the progress and history of a project over time. Version control allows
+team members or even individuals to see what changes were made, who made the changes, and what the benefit of the change is. 
+example of a version control system is Git. Git allows every distributor to have a full copy of the entire project and its complete 
+history stored locally on their own machine, rather than depending on constant access to one central server. We also have GitHub, 
+which is completely different from git. GitHub is a web-based service that hosts git repositories remotely, acting as a central hub 
+where teams can push their changes so that every member can stay synchronized. 
